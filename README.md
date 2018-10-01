@@ -39,6 +39,7 @@ $ echo "{\"wow\":[1,2,3]}" | jut -s 4
         3
     ]
 }
+$ 
 ```
 
 More to come...
